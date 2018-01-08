@@ -1,0 +1,19 @@
+{
+  "name": "owl-carousel",
+  "version": "1.3.3",
+  "description": "legacy owl carousel repo",
+  "main": "owl.carousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakubkocvara/owl-carousel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakubkocvara/owl-carousel/issues"
+  },
+  "homepage": "https://github.com/jakubkocvara/owl-carousel#readme"
+}
