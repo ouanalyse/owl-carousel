@@ -1,19 +1,19 @@
 {
-  "name": "owl-carousel",
+  "name": "ouanalyse-owl-carousel",
   "version": "1.3.3",
-  "description": "legacy owl carousel repo",
+  "description": "owl carousel 1.3.3 legacy repo",
   "main": "owl.carousel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakubkocvara/owl-carousel.git"
+    "url": "git+https://github.com/ouanalyse/owl-carousel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jakubkocvara/owl-carousel/issues"
+    "url": "https://github.com/ouanalyse/owl-carousel/issues"
   },
-  "homepage": "https://github.com/jakubkocvara/owl-carousel#readme"
+  "homepage": "https://github.com/ouanalyse/owl-carousel#readme"
 }
